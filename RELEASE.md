@@ -1,5 +1,26 @@
 # RELEASE NOTES
 
+## v1.0.1 - 2026-03-09
+
+Patch release focused on repository presentation and documentation clarity.
+
+### Included
+
+- Added a project screenshot section at the top of `README.md`.
+- Linked image asset (`images/1.png`) in README for immediate UI preview.
+- Minor documentation context improvements for project landing section.
+
+### Repository Metadata
+
+- Tag: `v1.0.1`
+- GitHub release: `SYSCLOCK v1.0.1`
+
+### Quick Run
+
+```bash
+sudo python3 sysclock_gui.py
+```
+
 ## v1.0.0 - 2026-03-08
 
 First public release of **SYSCLOCK**.
