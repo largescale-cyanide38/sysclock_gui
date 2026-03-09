@@ -282,6 +282,12 @@ These digital modes are **extremely sensitive to clock synchronisation**: the FT
 
 ### Technical Description
 
+### GitHub Topics
+
+Use these repository topics to align metadata with this README:
+
+`python`, `tkinter`, `desktop-gui`, `system-clock`, `time-sync`, `ntp`, `timezone`, `clock-management`, `amateur-radio`, `ham-radio`, `ft8`, `ft4`, `wsjtx`, `jtdx`, `mshv`
+
 | Item | Detail |
 |---|---|
 | Language | Python 3.8+ |

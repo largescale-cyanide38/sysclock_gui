@@ -19,6 +19,7 @@ First public release of **SYSCLOCK**.
 - License: GNU GPL v3.0 (`LICENSE`)
 - Tag: `v1.0.0`
 - GitHub release: `SYSCLOCK v1.0.0`
+- Topics: `python`, `tkinter`, `desktop-gui`, `system-clock`, `time-sync`, `ntp`, `timezone`, `clock-management`, `amateur-radio`, `ham-radio`, `ft8`, `ft4`, `wsjtx`, `jtdx`, `mshv`
 
 ### Quick Run
 
