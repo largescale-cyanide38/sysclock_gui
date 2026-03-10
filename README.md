@@ -152,6 +152,17 @@ cd C:\percorso\cartella
 python sysclock_gui.py
 ```
 
+##### 🪟 Windows 11 — Eseguibile standalone
+
+È disponibile una versione precompilata compatibile con **Windows 11**, che non richiede l'installazione di Python.
+Il file eseguibile si trova nella cartella `dist`:
+
+```
+dist\SysClockControl.exe
+```
+
+> **Importante:** avviare `SysClockControl.exe` con **click destro → Esegui come amministratore**, in quanto le operazioni di sistema richiedono privilegi elevati.
+
 #### Riepilogo avvio
 
 | Sistema | Comando |
@@ -159,6 +170,7 @@ python sysclock_gui.py
 | Linux | `sudo python3 sysclock_gui.py` |
 | macOS | `sudo python3 sysclock_gui.py` |
 | Windows | Prompt come Amministratore → `python sysclock_gui.py` |
+| Windows 11 (standalone) | `dist\SysClockControl.exe` — click destro → **Esegui come amministratore** |
 
 ---
 
@@ -353,6 +365,17 @@ cd C:\path\to\folder
 python sysclock_gui.py
 ```
 
+##### 🪟 Windows 11 — Standalone Executable
+
+A pre-built version compatible with **Windows 11** is available, requiring no Python installation.
+The executable is located in the `dist` folder:
+
+```
+dist\SysClockControl.exe
+```
+
+> **Important:** launch `SysClockControl.exe` by **right-clicking → Run as administrator**, as system-level operations require elevated privileges.
+
 #### Quick Launch Reference
 
 | System | Command |
@@ -360,6 +383,7 @@ python sysclock_gui.py
 | Linux | `sudo python3 sysclock_gui.py` |
 | macOS | `sudo python3 sysclock_gui.py` |
 | Windows | Administrator Command Prompt → `python sysclock_gui.py` |
+| Windows 11 (standalone) | `dist\SysClockControl.exe` — right-click → **Run as administrator** |
 
 ---
 
