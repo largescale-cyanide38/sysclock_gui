@@ -4,10 +4,7 @@ Release date: 2026-03-11
 
 ## Highlights
 
-- Added Linux standalone executables to `dist/`.
-- Updated `README.md` (both Italian and English sections) with dedicated **Linux standalone** section.
-- Added launch instructions for `dist/sysclock_gui` (Dark) and `dist/sysclock_gui_clear` (Clear).
-- Updated Quick Launch Reference tables to include both Linux standalone variants.
+Added Linux standalone executables to `dist/`. Updated README.md (both Italian and English sections) with a dedicated Linux standalone section, launch instructions for `dist/sysclock_gui` (Dark) and `dist/sysclock_gui_clear` (Clear), and updated Quick Launch Reference tables to include both variants.
 
 ## Assets
 
@@ -19,9 +16,7 @@ Release date: 2026-03-11
 
 ## Notes
 
-- This is a documentation and distribution release.
-- No runtime code changes in `sysclock_gui.py` or `sysclock_gui_clear.py`.
-- Linux executables built with PyInstaller (`-F -w`).
+This is a documentation and distribution release. No runtime code changes in `sysclock_gui.py` or `sysclock_gui_clear.py`. Linux executables built with PyInstaller (`-F -w`).
 
 ## Linux Build Commands
 
@@ -34,4 +29,4 @@ pyinstaller -F -w --name sysclock_gui_clear sysclock_gui_clear.py
 ## GitHub Release Metadata
 
 - Tag: `v1.0.4`
-- Release title: `SYSCLOCK v1.0.4`
+- Release title: SYSCLOCK v1.0.4
